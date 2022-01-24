@@ -1,0 +1,2 @@
+# Text extraction using Pytesseract
+### In this project I have demonstrated the use of pytesseract to help extract text from images which can prove to be useful in various industries like education, journalism etc.
